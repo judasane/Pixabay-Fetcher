@@ -1,8 +1,10 @@
 Este proyecto fue creado usando [Create React App](https://github.com/facebook/create-react-app), siguiendo el tutorial de [Juanpablogdl](https://github.com/juanpablogdl) que se encuentra en el siguiente vídeo:
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/hScR513gvNo/0.jpg)](http://www.youtube.com/watch?v=hScR513gvNo)
+
+<a href="http://www.youtube.com/watch?v=hScR513gvNo" alt="Video tutorial" target="_blank"><img src="http://img.youtube.com/vi/hScR513gvNo/0.jpg"/></a>
 
 ## Ejecutar
+
 
 En la carpeta del proyecto ejecuta 
 
